@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Sampad-Adhikary/Sampad-Adhikary/blob/main/Sampad%20Adhikary.png)
 <h1 align="center">Hi 👋, I'm Tripti Sharma</h1>
 <h3 align="center">Software Developer|| Web Developer</h3>
 
