@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Backend technologies like ReactJs,MongoDb ,etc**
+- 🌱 I’m currently practising **Data Structures and Algorithm **
 
-- 🤝 I’m looking for help with **exploring backend web Technologies**
+- 🤝 I’m looking for help with **exploring latest web Technologies**
 
-- 💬 Ask me about **UI development**
+- 💬 Ask me about **Full Stack development**
 
 - 📫 How to reach me **triptisharma827@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UYVIblzK-ZGK0xHSBtXUisrWQBvXijxT/view?usp=sharing](https://drive.google.com/file/d/1UYVIblzK-ZGK0xHSBtXUisrWQBvXijxT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zgKch0ixSxu6C2-an7PErST4SwQqDjgd/view?usp=sharing](https://drive.google.com/file/d/1zgKch0ixSxu6C2-an7PErST4SwQqDjgd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
