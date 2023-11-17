@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triptisharma827&label=Profile%20views&color=0e75b6&style=flat" alt="triptisharma827" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working as Software Developer
 
 - 🌱 I’m currently practising **Data Structures and Algorithm **
 
