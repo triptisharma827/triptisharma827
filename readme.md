@@ -1,17 +1,13 @@
 
 ![logo](https://github.com/triptisharma827/triptisharma827/blob/main/Tripti%20LinkedIn.png)
 <h1 align="center">Hi 👋, I'm Tripti Sharma</h1>
-<h3 align="center">Software Developer|| Web Developer</h3>
+<h3 align="center">Software Engineer || Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triptisharma827&label=Profile%20views&color=0e75b6&style=flat" alt="triptisharma827" /> </p>
 
-- 🔭 I’m currently working as Software Developer
+- 🔭 I’m currently working as Software Engineer I at HashedIn by Deloitte
 
-- 🌱 I’m currently practising **Data Structures and Algorithm **
-
-- 🤝 I’m looking for help with **exploring latest web Technologies**
-
-- 💬 Ask me about **Full Stack development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **triptisharma827@gmail.com**
 
